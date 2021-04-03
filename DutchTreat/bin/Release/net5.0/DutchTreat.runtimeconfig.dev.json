@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zdrav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zdrav\\.nuget\\packages"
+    ]
+  }
+}

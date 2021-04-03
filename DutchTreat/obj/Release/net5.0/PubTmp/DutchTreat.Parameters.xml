@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dutchtreat" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\workspace\\ASP\\aspnetcore-mvc-efcore-bootstrap-angular-web\\14\\demos\\Demos\\5\.0\\after\\DutchTreat\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
