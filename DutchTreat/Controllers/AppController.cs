@@ -52,7 +52,7 @@ namespace DutchTreat.Controllers
       return View();
     }
 
-    public IActionResult Shop()
+    public IActionResult Projects()
     {
       var results = _repository.GetAllProducts();
 
